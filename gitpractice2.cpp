@@ -9,10 +9,16 @@ int binconvert(int n){
     }
     return num;
 }
+void print(int n){
+    for(int i=0;i<n;i++){
+        cout<<i+1<<" ";
+    }
+}
 int main(){
     int x;
     cin>>x;
     int y=binconvert(x);
     cout<<"your binary conversion is:"<<y<<endl;
+    cout<<"1 to N";
     return 0;
 }
