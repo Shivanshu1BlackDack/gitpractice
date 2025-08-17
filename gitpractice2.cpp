@@ -17,6 +17,9 @@ void print(int n){
 void newfunction(){
   cout<<"newfeature"<<endl;
 }
+void function2(){
+    cout<<"work in progress"<<endl;
+}
 int main(){
     int x;
     cin>>x;
