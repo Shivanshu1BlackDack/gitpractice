@@ -19,7 +19,6 @@ int main(){
     cin>>x;
     int y=binconvert(x);
     cout<<"your binary conversion is:"<<y<<endl;
-    cout<<"1 to N"<<endl;
-    cout<<"hello";
+    cout<<"1 to N";
     return 0;
 }
