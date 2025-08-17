@@ -14,6 +14,9 @@ void print(int n){
         cout<<i+1<<" ";
     }
 }
+void newfunction(){
+  cout<<"newfeature"<<endl;
+}
 int main(){
     int x;
     cin>>x;
