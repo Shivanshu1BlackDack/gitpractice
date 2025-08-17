@@ -26,5 +26,6 @@ int main(){
     int y=binconvert(x);
     cout<<"your binary conversion is:"<<y<<endl;
     cout<<"1 to N";
+    print(x);
     return 0;
 }
